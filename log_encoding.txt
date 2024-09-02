@@ -1,0 +1,16 @@
+INFO: SELECTED -- Encoding
+optional filename read
+STATUS :: SUCCESS!!! Reading and Validating encoding arguments
+STATUS :: SUCCESS!!! Opened all the files
+STATUS :: Started Encoding
+Width of the image = 1024
+Height of the image = 768
+STATUS :: SUCCESS!!! Image is capable to hide the secret data
+STATUS :: SUCCESS!!! Copied bmp header
+STATUS :: SUCCESS!!! Encoded Magic string
+STATUS :: SUCCESS!!! Encoded Secret file extension size
+STATUS :: SUCCESS!!! Encoded secret file extension
+STATUS :: SUCCESS!!! Encoded secret file size
+STATUS :: SUCCESS!!! Encoded secret data
+STATUS :: SUCCESS!!! Copied remaining RGB data
+###********* ENCODING DONE SUCCESSFULLY **********###
