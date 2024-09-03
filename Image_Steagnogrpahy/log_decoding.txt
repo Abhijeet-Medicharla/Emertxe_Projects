@@ -1,0 +1,13 @@
+INFO: SELECTED -- Decoding
+STATUS :: SUCCESS!!! Reading and Validating decoding arguments
+STATUS :: SUCCESS!!! Opened files
+STATUS :: Started Decoding
+STATUS :: SUCCESS!!! Magic String Verified
+INFO: Size of Secret file extension - 4
+STATUS :: SUCCESS!!! Decoded secret file extension size
+INFO: Secret file extension - ".txt"
+STATUS :: SUCCESS!!! Decoded secret file extension
+INFO: Size of secret file - 31
+STATUS :: SUCCESS!!! Decoded secret file size
+STATUS :: SUCCESS!!! Decoded secret data from "stego.bmp"
+###********* DECODING DONE SUCCESSFULLY **********###
