@@ -1,0 +1,190 @@
+make -f nbproject/Makefile-PRO_Comparison.mk SUBPROJECTS= .clean-conf
+make[1]: Entering directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+rm -f  -r .ca/build/PRO_Comparison/production
+rm -f  -r .ca/dist/PRO_Comparison/production
+make[1]: Leaving directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+[32mCLEAN SUCCESSFUL (total time: 155ms)[0m
+make -f nbproject/Makefile-PRO_Comparison.mk SUBPROJECTS= .build-conf
+make  -f nbproject/Makefile-PRO_Comparison.mk .ca/dist/PRO_Comparison/production/CAR_BLACK_BOX.X.production.hex
+make[2]: Entering directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+"C:\Program Files\Microchip\xc8\v2.46\bin\xc8-cc.exe"  -mcpu=16F877A -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8"  -fno-short-double -fno-short-float -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/adc.p1 adc.c 
+::: advisory: (2100) using the C99 standard library with the selected device may result in larger code and data usage
+make[2]: Leaving directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+make[2]: Entering directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+"C:\Program Files\Microchip\xc8\v2.46\bin\xc8-cc.exe"  -mcpu=16F877A -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8"  -fno-short-double -fno-short-float -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/digital_keypad.p1 digital_keypad.c 
+::: advisory: (2100) using the C99 standard library with the selected device may result in larger code and data usage
+make[2]: Leaving directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+make[2]: Entering directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+"C:\Program Files\Microchip\xc8\v2.46\bin\xc8-cc.exe"  -mcpu=16F877A -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8"  -fno-short-double -fno-short-float -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/i2c.p1 i2c.c 
+::: advisory: (2100) using the C99 standard library with the selected device may result in larger code and data usage
+make[2]: Leaving directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+make[2]: Entering directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+"C:\Program Files\Microchip\xc8\v2.46\bin\xc8-cc.exe"  -mcpu=16F877A -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8"  -fno-short-double -fno-short-float -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/ds1307.p1 ds1307.c 
+::: advisory: (2100) using the C99 standard library with the selected device may result in larger code and data usage
+make[2]: Leaving directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+make[2]: Entering directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+"C:\Program Files\Microchip\xc8\v2.46\bin\xc8-cc.exe"  -mcpu=16F877A -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8"  -fno-short-double -fno-short-float -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/eeprom_24c04.p1 eeprom_24c04.c 
+::: advisory: (2100) using the C99 standard library with the selected device may result in larger code and data usage
+make[2]: Leaving directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+make[2]: Entering directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+"C:\Program Files\Microchip\xc8\v2.46\bin\xc8-cc.exe"  -mcpu=16F877A -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8"  -fno-short-double -fno-short-float -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/car_black_box_def.p1 car_black_box_def.c 
+::: advisory: (2100) using the C99 standard library with the selected device may result in larger code and data usage
+car_black_box_def.c:57:22: warning: passing 'unsigned char *' to parameter of type 'const char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+    strncpy(&log[6], event, 2);
+                     ^~~~~
+C:\Program Files\Microchip\xc8\v2.46\pic\include\c99\string.h:34:56: note: passing argument to parameter here
+char *strncpy (char *__restrict, const char *__restrict, size_t);
+                                                       ^
+car_black_box_def.c:69:16: warning: passing 'unsigned char *' to parameter of type 'const char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+    clcd_print(event, LINE2(11));
+               ^~~~~
+./clcd.h:35:29: note: passing argument to parameter 'str' here
+void clcd_print(const char *str, unsigned char addr);
+                            ^
+car_black_box_def.c:224:17: warning: passing 'unsigned char *' to parameter of type 'char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+        strncpy(&log[3], download_log[i], 2);
+                ^~~~~~~
+C:\Program Files\Microchip\xc8\v2.46\pic\include\c99\string.h:34:32: note: passing argument to parameter here
+char *strncpy (char *__restrict, const char *__restrict, size_t);
+                               ^
+car_black_box_def.c:224:26: warning: passing 'unsigned char [11]' to parameter of type 'const char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+        strncpy(&log[3], download_log[i], 2);
+                         ^~~~~~~~~~~~~~~
+C:\Program Files\Microchip\xc8\v2.46\pic\include\c99\string.h:34:56: note: passing argument to parameter here
+char *strncpy (char *__restrict, const char *__restrict, size_t);
+                                                       ^
+car_black_box_def.c:226:17: warning: passing 'unsigned char *' to parameter of type 'char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+        strncpy(&log[6], &download_log[i][2], 2);
+                ^~~~~~~
+C:\Program Files\Microchip\xc8\v2.46\pic\include\c99\string.h:34:32: note: passing argument to parameter here
+char *strncpy (char *__restrict, const char *__restrict, size_t);
+                               ^
+car_black_box_def.c:226:26: warning: passing 'unsigned char *' to parameter of type 'const char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+        strncpy(&log[6], &download_log[i][2], 2);
+                         ^~~~~~~~~~~~~~~~~~~
+C:\Program Files\Microchip\xc8\v2.46\pic\include\c99\string.h:34:56: note: passing argument to parameter here
+char *strncpy (char *__restrict, const char *__restrict, size_t);
+                                                       ^
+car_black_box_def.c:228:17: warning: passing 'unsigned char *' to parameter of type 'char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+        strncpy(&log[9], &download_log[i][4], 2);
+                ^~~~~~~
+C:\Program Files\Microchip\xc8\v2.46\pic\include\c99\string.h:34:32: note: passing argument to parameter here
+char *strncpy (char *__restrict, const char *__restrict, size_t);
+                               ^
+car_black_box_def.c:228:26: warning: passing 'unsigned char *' to parameter of type 'const char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+        strncpy(&log[9], &download_log[i][4], 2);
+                         ^~~~~~~~~~~~~~~~~~~
+C:\Program Files\Microchip\xc8\v2.46\pic\include\c99\string.h:34:56: note: passing argument to parameter here
+char *strncpy (char *__restrict, const char *__restrict, size_t);
+                                                       ^
+car_black_box_def.c:231:17: warning: passing 'unsigned char *' to parameter of type 'char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+        strncpy(&log[12], &download_log[i][6], 2);
+                ^~~~~~~~
+C:\Program Files\Microchip\xc8\v2.46\pic\include\c99\string.h:34:32: note: passing argument to parameter here
+char *strncpy (char *__restrict, const char *__restrict, size_t);
+                               ^
+car_black_box_def.c:231:27: warning: passing 'unsigned char *' to parameter of type 'const char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+        strncpy(&log[12], &download_log[i][6], 2);
+                          ^~~~~~~~~~~~~~~~~~~
+C:\Program Files\Microchip\xc8\v2.46\pic\include\c99\string.h:34:56: note: passing argument to parameter here
+char *strncpy (char *__restrict, const char *__restrict, size_t);
+                                                       ^
+car_black_box_def.c:234:17: warning: passing 'unsigned char *' to parameter of type 'char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+        strncpy(&log[16], &download_log[i][8], 2);
+                ^~~~~~~~
+C:\Program Files\Microchip\xc8\v2.46\pic\include\c99\string.h:34:32: note: passing argument to parameter here
+char *strncpy (char *__restrict, const char *__restrict, size_t);
+                               ^
+car_black_box_def.c:234:27: warning: passing 'unsigned char *' to parameter of type 'const char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+        strncpy(&log[16], &download_log[i][8], 2);
+                          ^~~~~~~~~~~~~~~~~~~
+C:\Program Files\Microchip\xc8\v2.46\pic\include\c99\string.h:34:56: note: passing argument to parameter here
+char *strncpy (char *__restrict, const char *__restrict, size_t);
+                                                       ^
+car_black_box_def.c:237:23: warning: passing 'unsigned char [20]' to parameter of type 'const char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+        uart_send_str(log);
+                      ^~~
+./uart.h:12:32: note: passing argument to parameter 's' here
+void uart_send_str(const char *s);
+                               ^
+car_black_box_def.c:219:9: warning: array index 11 is past the end of the array (which contains 11 elements) [-Warray-bounds]
+        download_log[i][11] = '\0';
+        ^               ~~
+car_black_box_def.c:209:5: note: array 'download_log' declared here
+    unsigned char download_log[10][11];
+    ^
+14 warnings generated.
+make[2]: Leaving directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+make[2]: Entering directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+"C:\Program Files\Microchip\xc8\v2.46\bin\xc8-cc.exe"  -mcpu=16F877A -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8"  -fno-short-double -fno-short-float -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/isr.p1 isr.c 
+::: advisory: (2100) using the C99 standard library with the selected device may result in larger code and data usage
+make[2]: Leaving directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+make[2]: Entering directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+"C:\Program Files\Microchip\xc8\v2.46\bin\xc8-cc.exe"  -mcpu=16F877A -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8"  -fno-short-double -fno-short-float -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/uart.p1 uart.c 
+::: advisory: (2100) using the C99 standard library with the selected device may result in larger code and data usage
+uart.c:12:34: warning: implicit conversion loses integer precision: 'unsigned long' to 'unsigned char' [-Wconversion]
+    SPBRG = (FOSC / (16 * baud)) - 1;
+          ~ ~~~~~~~~~~~~~~~~~~~~~^~~
+uart.c:37:9: warning: implicit declaration of function 'putchar' is invalid in C99 [-Wimplicit-function-declaration]
+        putchar(*s++);
+        ^
+2 warnings generated.
+make[2]: Leaving directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+make[2]: Entering directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+"C:\Program Files\Microchip\xc8\v2.46\bin\xc8-cc.exe"  -mcpu=16F877A -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8"  -fno-short-double -fno-short-float -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/timers.p1 timers.c 
+::: advisory: (2100) using the C99 standard library with the selected device may result in larger code and data usage
+make[2]: Leaving directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+make[2]: Entering directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+"C:\Program Files\Microchip\xc8\v2.46\bin\xc8-cc.exe"  -mcpu=16F877A -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8"  -fno-short-double -fno-short-float -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/clcd.p1 clcd.c 
+::: advisory: (2100) using the C99 standard library with the selected device may result in larger code and data usage
+clcd.c:5:15: warning: implicit conversion loses integer precision: 'unsigned char' to '__bit' [-Wconversion]
+    CLCD_RS = mode;
+            ~ ^~~~
+1 warning generated.
+make[2]: Leaving directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+make[2]: Entering directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+"C:\Program Files\Microchip\xc8\v2.46\bin\xc8-cc.exe"  -mcpu=16F877A -c   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8"  -fno-short-double -fno-short-float -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -DXPRJ_PRO_Comparison=PRO_Comparison  -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits   -std=c99 -gdwarf-3 -mstack=compiled:auto:auto -mafrlcsj     -o .ca/build/PRO_Comparison/production/main.p1 main.c 
+::: advisory: (2100) using the C99 standard library with the selected device may result in larger code and data usage
+main.c:34:15: warning: passing 'char [3]' to parameter of type 'unsigned char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+    log_event(event, speed);
+              ^~~~~
+./car_black_box.h:7:30: note: passing argument to parameter 'event' here
+void log_event(unsigned char event[], unsigned char speed);
+                             ^
+main.c:43:23: warning: passing 'char [3]' to parameter of type 'unsigned char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+            log_event(event, speed);
+                      ^~~~~
+./car_black_box.h:7:30: note: passing argument to parameter 'event' here
+void log_event(unsigned char event[], unsigned char speed);
+                             ^
+main.c:49:23: warning: passing 'char [3]' to parameter of type 'unsigned char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+            log_event(event, speed);
+                      ^~~~~
+./car_black_box.h:7:30: note: passing argument to parameter 'event' here
+void log_event(unsigned char event[], unsigned char speed);
+                             ^
+main.c:55:23: warning: passing 'char [3]' to parameter of type 'unsigned char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+            log_event(event, speed);
+                      ^~~~~
+./car_black_box.h:7:30: note: passing argument to parameter 'event' here
+void log_event(unsigned char event[], unsigned char speed);
+                             ^
+main.c:118:35: warning: passing 'char [3]' to parameter of type 'unsigned char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+                display_dashboard(event,speed);
+                                  ^~~~~
+./car_black_box.h:4:38: note: passing argument to parameter 'event' here
+void display_dashboard(unsigned char event[], unsigned char speed);
+                                     ^
+5 warnings generated.
+make[2]: Leaving directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+make[2]: Entering directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+"C:\Program Files\Microchip\xc8\v2.46\bin\xc8-cc.exe"  -mcpu=16F877A -Wl,-Map=.ca/dist/PRO_Comparison/production/CAR_BLACK_BOX.X.production.map  -DXPRJ_PRO_Comparison=PRO_Comparison  -Wl,--defsym=__MPLAB_BUILD=1   -mdfp="C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8"  -fno-short-double -fno-short-float -O0 -fasmfile -maddrqual=ignore -xassembler-with-cpp -mwarn=-3 -Wa,-a -msummary=-psect,-class,+mem,-hex,-file  -ginhx32 -Wl,--data-init -mno-keep-startup -mno-osccal -mno-resetbits -mno-save-resetbits -mno-download -mno-stackcall -mno-default-config-bits -mafrlcsj -std=c99 -gdwarf-3 -mstack=compiled:auto:auto      -Wl,--memorysummary,.ca/dist/PRO_Comparison/production/memoryfile.xml -o .ca/dist/PRO_Comparison/production/CAR_BLACK_BOX.X.production.elf  .ca/build/PRO_Comparison/production/main.p1 .ca/build/PRO_Comparison/production/car_black_box_def.p1 .ca/build/PRO_Comparison/production/clcd.p1 .ca/build/PRO_Comparison/production/adc.p1 .ca/build/PRO_Comparison/production/digital_keypad.p1 .ca/build/PRO_Comparison/production/i2c.p1 .ca/build/PRO_Comparison/production/ds1307.p1 .ca/build/PRO_Comparison/production/eeprom_24c04.p1 .ca/build/PRO_Comparison/production/isr.p1 .ca/build/PRO_Comparison/production/timers.p1 .ca/build/PRO_Comparison/production/uart.p1     
+(908) exit status = 1
+::: advisory: (2100) using the C99 standard library with the selected device may result in larger code and data usage
+car_black_box_def.c:209:: error: (1250) could not find space (110 bytes) for variable _download_log
+(908) exit status = 1
+make[2]: Leaving directory 'D:/ABHI/EMERTXE_ECEP/MICROCONTROLLERS/MC WORKSPACE/CAR_BLACK_BOX.X'
+[31mmake[2]: *** [nbproject/Makefile-PRO_Comparison.mk:294: .ca/dist/PRO_Comparison/production/CAR_BLACK_BOX.X.production.hex] Error 1
+make[1]: *** [nbproject/Makefile-PRO_Comparison.mk:85: .build-conf] Error 2
+make: *** [nbproject/Makefile-impl.mk:39: .build-impl] Error 2[0m
+[31mBUILD FAILED (exit value 2, total time: 5s)[0m
