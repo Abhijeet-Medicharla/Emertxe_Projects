@@ -1,0 +1,55 @@
+       [1;33m************************************************************[0m       
+                        *** You Scored [1;31m5/10[0m ***                        
+       [1;33m************************************************************[0m       
+Use [1;31mup[0m and [1;31mdown[0m arrow keys to navigate and [1;31mq[0m to quit
+-------------------------------------------------------------------------
+1. **Who was the first Indian to score a century in Test cricket?** : status : [1;31mRight[0m
+   - a) Sunil Gavaskar
+   - b) Lala Amarnath
+   - c) Sachin Tendulkar
+   - d) Kapil Dev
+2. **In which year did India win its first Cricket World Cup?** : status : [1;31mRight[0m
+   - a) 1979
+   - b) 1983
+   - c) 1987
+   - d) 1992
+3. **Who was the first President of independent India?** : status : [1;32mWrong[0m
+   - a) Jawaharlal Nehru
+   - b) Mahatma Gandhi
+   - c) Dr. Rajendra Prasad
+   - d) Sardar Vallabhbhai Patel
+4. **Which Indian state is known as the "Land of Five Rivers"?** : status : [1;31mRight[0m
+   - a) Uttar Pradesh
+   - b) Punjab
+   - c) Haryana
+   - d) Bihar
+5. **Who was the first Indian woman to win an Olympic medal?** : status : [1;31mRight[0m
+   - a) P.T. Usha
+   - b) Karnam Malleswari
+   - c) Mary Kom
+   - d) Saina Nehwal
+6. **Which river is known as the 'Sorrow of Bihar'?** : status : [1;32mWrong[0m
+   - a) Yamuna
+   - b) Ganges
+   - c) Kosi
+   - d) Brahmaputra
+7. **Who was the first Mughal emperor of India?** : status : [1;32mWrong[0m
+   - a) Akbar
+   - b) Aurangzeb
+   - c) Babur
+   - d) Shah Jahan
+8. **In which Indian state would you find the Meenakshi Temple?** : status : [1;31mRight[0m
+   - a) Kerala
+   - b) Tamil Nadu
+   - c) Karnataka
+   - d) Andhra Pradesh
+9. **Who was the captain of the Indian cricket team when they won the 2011 Cricket World Cup?** : status : [1;32mWrong[0m
+   - a) Virat Kohli
+   - b) Rahul Dravid
+   - c) Sourav Ganguly
+   - d) Mahendra Singh Dhoni
+10. **Which Indian city is also known as the "Silicon Valley of India"?** : status : [1;32mWrong[0m
+    - a) Hyderabad
+    - b) Mumbai
+    - c) Bengaluru
+    - d) Pune
